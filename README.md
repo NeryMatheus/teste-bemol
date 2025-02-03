@@ -67,6 +67,15 @@ A documentação, criada com **Swagger**, está disponível em, ou conforme rota
 /api-docs
 ```
 
+### 9. Autenticação
+
+Você pode autenticar-se através dos dados abaixo:
+
+```
+email: admin@example.com
+senha: admin
+```
+
 ## Tecnologias Utilizadas
 
 ### ✅ Criar um serviço para processar pedidos usando Azure Functions
