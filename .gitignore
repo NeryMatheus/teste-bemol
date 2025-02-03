@@ -1,0 +1,51 @@
+# Dependências do Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ambiente do Editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Arquivos temporários
+tmp/
+temp/
+dist/
+build/
+coverage/
+
+# Variáveis de ambiente
+.env
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Cache e dependências temporárias
+.npm/
+.eslintcache
+
+# Testes e relatórios de cobertura
+*.spec.ts
+*.test.ts
+.jest/
+.nyc_output/
+
+# Configurações do sistema operacional
+*.swp
+*.swo
